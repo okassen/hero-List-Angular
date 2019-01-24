@@ -1,6 +1,6 @@
 <div class="content">
     <button ng-click="order = 'name'">Order by name</button>
-    <button ng-click="order = 'belt'">Order by genre</button>
+    <button ng-click="order = 'genre'">Order by genre</button>
     <input type="text" ng-model="search" placeholder="Search for anime" />
     <ul id="anime-list">
       <li ng-repeat="anime in animes | orderBy: order | filter: search" ng-show="anime.available">
@@ -13,8 +13,7 @@
     </ul>
     <form ng-submit="addAnime()">
       <input type="text" placeholder="name" ng-model="newanime.name" />
-      <input type="text" placeholder="belt" ng-model="newanime.belt" />
-      <input type="text" placeholder="rate" ng-model="newanime.rate" />
+      <input type="text" placeholder="genre" ng-model="newanime.genre" />
       <input type="submit" value="Add anime to list" />
     </form>
     <a href="" ng-click="removeAll()">Remove all animes</a>
