@@ -1,14 +1,14 @@
 <div class="content">
     <button ng-click="order = 'name'">Order by name</button>
-    <button ng-click="order = 'belt'">Order by Belt</button>
+    <button ng-click="order = 'belt'">Order by genre</button>
     <input type="text" ng-model="search" placeholder="Search for anime" />
     <ul id="anime-list">
       <li ng-repeat="anime in animes | orderBy: order | filter: search" ng-show="anime.available">
         <img ng-src="{{anime.thumb}}" style="margin: -12px 10px 0 0; float: left; width: 50px; border-radius: 50%;"
           ng-show="anime.thumb"/>
-        <h3>{{anime.name}} - {{anime.rate | currency: '£'}}</h3>
+        <h3>{{anime.name}}</h3>
         <div class="remove" ng-click="removeAnime(anime)">x</div>
-        <span class="belt" style="background: {{anime.belt}}">{{anime.belt}} belt</span>
+        <span class="genre" style="background: {{anime.genre}}">{{anime.genre}} genre</span>
       </li>
     </ul>
     <form ng-submit="addAnime()">
