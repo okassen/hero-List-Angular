@@ -16,15 +16,6 @@ h1,h2,h3{
   margin: 0;
 }
 
-.genre{
-  padding: 5px 10px;
-  border-radius: 10px;
-  margin-left: 5px;
-  color: #fff;
-  font-size: 15px;
-  text-transform: uppercase;
-}
-
 #menu-bar{
   background: crimson;
   color: #fff;
