@@ -1,13 +1,13 @@
-var myNinjaApp = angular.module('myNinjaApp', ['ngRoute', 'ngAnimate']);
+var myAnimeApp = angular.module('myAnimeApp', ['ngRoute', 'ngAnimate']);
 
-myNinjaApp.config(['$routeProvider', '$locationProvider', function($routeProvider, $locationProvider){
+myAnimeApp.config(['$routeProvider', '$locationProvider', function($routeProvider, $locationProvider){
 
   $locationProvider.html5Mode(true);
 
   $routeProvider
     .when('/home', {
       templateUrl: 'views/home.html',
-      controller: 'NinjaController'
+      controller: 'AnimeController'
     })
     .when('/contact', {
       templateUrl: 'views/contact.html',
@@ -19,14 +19,14 @@ myNinjaApp.config(['$routeProvider', '$locationProvider', function($routeProvide
     })
     .when('/directory', {
       templateUrl: 'views/directory.html',
-      controller: 'NinjaController'
+      controller: 'AnimeController'
     }).otherwise({
       redirectTo: '/home'
     });
 
 }]);
 
-myNinjaApp.directive('randomNinja', [function(){
+myAnimeApp.directive('randomAnime', [function(){
 
   return {
     restrict: 'E',
@@ -44,40 +44,40 @@ myNinjaApp.directive('randomNinja', [function(){
 
 }]);
 
-myNinjaApp.controller('NinjaController', ['$scope', '$http', function($scope, $http){
+myAnimeApp.controller('AnimeController', ['$scope', '$http', function($scope, $http){
 
-  $scope.removeNinja = function(ninja){
-    var removedNinja = $scope.ninjas.indexOf(ninja);
-    $scope.ninjas.splice(removedNinja, 1);
+  $scope.removeAnime = function(anime){
+    var removedAnime = $scope.animes.indexOf(anime);
+    $scope.ninjas.splice(removedAnime, 1);
   };
 
-  $scope.addNinja = function(){
-    $scope.ninjas.push({
-      name: $scope.newninja.name,
-      belt: $scope.newninja.belt,
-      rate: parseInt($scope.newninja.rate),
+  $scope.addAnime = function(){
+    $scope.animes.push({
+      name: $scope.newanime.name,
+      belt: $scope.newanime.belt,
+      rate: parseInt($scope.newanime.rate),
       available: true
     });
 
-    $scope.newninja.name = "";
-    $scope.newninja.belt = "";
-    $scope.newninja.rate = "";
+    $scope.newanime.name = "";
+    $scope.newanime.belt = "";
+    $scope.newanime.rate = "";
 
   };
 
   $scope.removeAll = function(){
-    $scope.ninjas =[];
+    $scope.animes =[];
   }
 
-  $http.get('data/ninjas.json').success(function(data){
+  $http.get('data/animes.json').success(function(data){
 
-    $scope.ninjas = data;
+    $scope.animes = data;
 
   });
 
 }]);
 
-myNinjaApp.controller('ContactController', ['$scope', '$location', function($scope, $location){
+myAnimeApp.controller('ContactController', ['$scope', '$location', function($scope, $location){
 
   $scope.sendMessage = function(){
     $location.path('/contact-success');
