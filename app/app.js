@@ -54,14 +54,12 @@ myAnimeApp.controller('AnimeController', ['$scope', '$http', function($scope, $h
   $scope.addAnime = function(){
     $scope.animes.push({
       name: $scope.newanime.name,
-      belt: $scope.newanime.belt,
-      rate: parseInt($scope.newanime.rate),
+      genre: $scope.newanime.genre,
       available: true
     });
 
     $scope.newanime.name = "";
-    $scope.newanime.belt = "";
-    $scope.newanime.rate = "";
+    $scope.newanime.genre = "";
 
   };
 
