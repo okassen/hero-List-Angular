@@ -1,0 +1,67 @@
+[{
+	"name": "Chun-Li",
+	"belt": "blue",
+	"rate": 50,
+	"available": true,
+	"thumb": "content/img/CI_NSwitch_UltraStreetFighter2TheFinalChallengers_CharacterIcons_ChunLi_image800w.jpg"
+}, {
+	"name": "Ken",
+	"belt": "red",
+	"rate": 30,
+	"available": true,
+	"thumb": "content/img/CI_NSwitch_UltraStreetFighter2TheFinalChallengers_CharacterIcons_Ken_image800w.jpg"
+}, {
+	"name": "Ryu",
+	"belt": "red",
+	"rate": 10,
+	"available": true,
+	"thumb": "content/img/CI_NSwitch_UltraStreetFighter2TheFinalChallengers_CharacterIcons_Ryu_image800w.jpg"
+}, {
+	"name": "Guile",
+	"belt": "green",
+	"rate": 10,
+	"available": true,
+	"thumb": "content/img/CI_NSwitch_UltraStreetFighter2TheFinalChallengers_CharacterIcons_Guile_image800w.jpg"
+}, {
+	"name": "Cammy",
+	"belt": "green",
+	"rate": 10,
+	"available": true,
+	"thumb": "content/img/CI_NSwitch_UltraStreetFighter2TheFinalChallengers_CharacterIcons_Cammy_image800w.jpg"
+}, {
+	"name": "Blanka",
+	"belt": "yellow",
+	"rate": 10,
+	"available": true,
+	"thumb": "content/img/CI_NSwitch_UltraStreetFighter2TheFinalChallengers_CharacterIcons_Blanka_image800w.jpg"
+}, {
+	"name": "Zangief",
+	"belt": "orange",
+	"rate": 10,
+	"available": true,
+	"thumb": "content/img/CI_NSwitch_UltraStreetFighter2TheFinalChallengers_CharacterIcons_Zangief_image800w.jpg"
+}, {
+	"name": "Dhalsim",
+	"belt": "magenta",
+	"rate": 10,
+	"available": true,
+	"thumb": "content/img/CI_NSwitch_UltraStreetFighter2TheFinalChallengers_CharacterIcons_Dhalsim_image800w.jpg"
+}, {
+	"name": "Sagat",
+	"belt": "magenta",
+	"rate": 10,
+	"available": true,
+	"thumb": "content/img/CI_NSwitch_UltraStreetFighter2TheFinalChallengers_CharacterIcons_Sagat_image800w.jpg"
+}, {
+	"name": "Fei Long",
+	"belt": "gray",
+	"rate": 10,
+	"available": true,
+	"thumb": "content/img/CI_NSwitch_UltraStreetFighter2TheFinalChallengers_CharacterIcons_FeiLong_image800w.jpg"
+}, {
+	"name": "M. Bison",
+	"belt": "black",
+	"rate": 1000,
+	"available": true,
+	"thumb": "content/img/CI_NSwitch_UltraStreetFighter2TheFinalChallengers_CharacterIcons_MBison_image800w.jpg"
+}]
