@@ -3,7 +3,7 @@
     <button ng-click="order = 'belt'">Order by Belt</button>
     <input type="text" ng-model="search" placeholder="Search for anime" />
     <ul id="anime-list">
-      <li ng-repeat="anime in animess | orderBy: order | filter: search" ng-show="anime.available">
+      <li ng-repeat="anime in animes | orderBy: order | filter: search" ng-show="anime.available">
         <img ng-src="{{anime.thumb}}" style="margin: -12px 10px 0 0; float: left; width: 50px; border-radius: 50%;"
           ng-show="anime.thumb"/>
         <h3>{{anime.name}} - {{anime.rate | currency: '£'}}</h3>

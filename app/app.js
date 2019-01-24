@@ -31,7 +31,7 @@ myAnimeApp.directive('randomAnime', [function(){
   return {
     restrict: 'E',
     scope: {
-        ninjas: '=',
+        animes: '=',
         title: '='
     },
     templateUrl: 'views/random.html',
@@ -48,7 +48,7 @@ myAnimeApp.controller('AnimeController', ['$scope', '$http', function($scope, $h
 
   $scope.removeAnime = function(anime){
     var removedAnime = $scope.animes.indexOf(anime);
-    $scope.ninjas.splice(removedAnime, 1);
+    $scope.animes.splice(removedAnime, 1);
   };
 
   $scope.addAnime = function(){
