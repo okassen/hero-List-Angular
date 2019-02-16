@@ -1,7 +1,7 @@
 {
   "posts": [
     {
-      "id": 1,
+      "id": "high-school-of-the-dead",
       "title": "high school of the dead",
       "body": "Le monde fut contaminé le 13 avril 2010 par une maladie mortelle d'origine inconnue, qui apparait le même jour dans les principales villes, transformant les humains en zombies et entrainant le déclin de la civilisation.             Au Japon, plusieurs étudiants du lycée Fujimi, ainsi qu'une infirmière scolaire, se sont regroupés afin de survivre à cette apocalypse. L'histoire suit Takashi Komuro, l'un des rares étudiants à avoir survécu à la première attaque.",
       "filter": "Aventure, Action, Ecchi, Drame, Horreur, Mystère",
@@ -17,7 +17,7 @@
   ],
   "comments": [
     {
-      "postId": 1,
+      "postId": "high-school-of-the-dead",
       "id": "high-school-of-the-dead",
       "name": "id labore ex et quam laborum",
       "email": "Eliseo@gardner.biz",
