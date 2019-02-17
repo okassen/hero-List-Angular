@@ -79,12 +79,14 @@
         {
           "id": 1,
           "ep": "001",
+          "action": "visibility",
           "title": "Escape from the dead",
           "url": "https://www.youtube.com/embed/U0oJSUUPk7k"
         },
         {
           "id": 2,
           "ep": "002",
+          "action": "visibility",
           "title": "Lol",
           "url": "https://www.youtube.com/embed/U0oJSUUPk7k"
         }
