@@ -20,52 +20,19 @@
   "comments": [
     {
       "postId": 1,
-      "sai": 1,
       "id": 1,
-      "ep": 1,
       "name": "Escape from the dead",
-      "thumbnail": "https://i.ytimg.com/vi/jn9mHzXJIV0/hqdefault.jpg?sqp=-oaymwEZCNACELwBSFXyq4qpAwsIARUAAIhCGAFwAQ==&rs=AOn4CLAvJvk4k_UNB9nst4pFP-txM1TLZA",
-      "youtubeURL": "",
-      "creator": "",
-      "views": 0,
-      "url": "https://www.youtube.com/embed/U0oJSUUPk7k",
-      "yt": "Youtube",
       "body": "laudantium enim quasi est quidem magnam voluptate ipsam eos\ntempora quo necessitatibus\ndolor quam autem quasi\nreiciendis et nam sapiente accusantium"
     },
     {
       "postId": 1,
-      "sai": 1,
       "id": 2,
-      "ep": 2,
-      "name": "bly blala",
-      "thumbnail": "",
-      "youtubeURL": "",
-      "creator": "",
-      "views": 0,
-      "url": "RspJBTTH2ug",
-      "yt": "Youtube",
       "body": "laudantium enim quasi est quidem magnam voluptate ipsam eos\ntempora quo necessitatibus\ndolor quam autem quasi\nreiciendis et nam sapiente accusantium"
     },
     {
       "postId": 2,
-      "sai": 1,
       "id": 3,
-      "ep": 1,
-      "name": "quo vero reiciendis velit similique earum",
-      "thumbnail": "",
-      "youtubeURL": "",
-      "creator": "",
-      "views": 0,
-      "url": "ep1",
       "body": "est natus enim nihil est dolore omnis voluptatem numquam\net omnis occaecati quod ullam at\nvoluptatem error expedita pariatur\nnihil sint nostrum voluptatem reiciendis et"
-    }
-  ],
-  "saisons": [
-    {
-      "postId": 1,
-      "commentId": 1,
-      "id": 1,
-      "name": "saison 1"
     }
   ],
   "items": [
@@ -125,6 +92,48 @@
           "title": "Sushi"
         }
       ]
+    }
+  ],
+  "movies": [
+    {
+      "id": 1,
+      "postId": 1,
+      "name": "Avengers: Infinity War",
+      "trailer": "https://www.youtube.com/embed/6ZfuNTqbHE8",
+      "poster": "https://cdn.images.express.co.uk/img/dynamic/36/590x/secondary/Avengers-3-teaser-poster-1143901.jpg",
+      "year": "2018"
+    },
+    {
+      "id": 2,
+      "postId": 1,
+      "name": "The Incredibles 2",
+      "trailer": "https://www.youtube.com/embed/ZJDMWVZta3M",
+      "poster": "https://vignette.wikia.nocookie.net/disney/images/b/b8/Incrediblesheader.jpg",
+      "year": "2018"
+    },
+    {
+      "id": 3,
+      "postId": 1,
+      "name": "Deadpool 2",
+      "trailer": "https://www.youtube.com/embed/wLeGWcVeIZ4",
+      "poster": "http://media.comicbook.com/2018/02/deadpool-1080750.jpeg",
+      "year": "2018"
+    },
+    {
+      "id": 4,
+      "postId": 2,
+      "name": "Pacific Rim Uprising",
+      "trailer": "https://www.youtube.com/embed/mqI29_cZ1NM",
+      "poster": "https://s3.amazonaws.com/WGHOF/images/398/pacific_rim_uprising_poster__newposter.jpg",
+      "year": "2018"
+    },
+    {
+      "id": 5,
+      "postId": 2,
+      "name": "Solo: A Star Wars Story",
+      "trailer": "https://www.youtube.com/embed/I7m-7EEI5vo",
+      "poster": "https://main-designyoutrust.netdna-ssl.com/wp-content/uploads/2018/02/1-18.jpg",
+      "year": "2018"
     }
   ]
 }
