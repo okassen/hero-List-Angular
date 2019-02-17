@@ -70,6 +70,7 @@
   ],
   "items": [
     {
+      "postId": 1,
       "header": "Today"
     },
     {
@@ -80,6 +81,7 @@
       "subtitle": "<span class='text--primary'>Ali Connors</span> &mdash; I'll be in your neighborhood doing errands this weekend. Do you want to hang out?"
     },
     {
+      "postId": 1,
       "divider": true,
       "inset": true
     },
@@ -91,6 +93,7 @@
       "subtitle": "<span class='text--primary'>to Alex, Scott, Jennifer</span> &mdash; Wish I could come, but I'm out of town this weekend."
     },
     {
+      "postId": 1,
       "divider": true,
       "inset": true
     },
@@ -102,6 +105,7 @@
       "subtitle": "<span class='text--primary'>Sandra Adams</span> &mdash; Do you have Paris recommendations? Have you ever been?"
     },
     {
+      "postId": 1,
       "divider": true,
       "inset": true
     },
@@ -113,6 +117,7 @@
       "subtitle": "<span class='text--primary'>Trevor Hansen</span> &mdash; Have any ideas about what we should get Heidi for her birthday?"
     },
     {
+      "postId": 1,
       "divider": true,
       "inset": true
     },
