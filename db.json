@@ -77,6 +77,8 @@
       "active": true,
       "items": [
         {
+          "id": 1,
+          "ep": "001",
           "title": "Escape from the dead"
         }
       ]
