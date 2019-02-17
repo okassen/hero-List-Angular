@@ -79,12 +79,14 @@
         {
           "id": 1,
           "ep": "001",
-          "title": "Escape from the dead"
+          "title": "Escape from the dead",
+          "url": "https://www.youtube.com/embed/U0oJSUUPk7k"
         },
         {
           "id": 2,
           "ep": "002",
-          "title": "Lol"
+          "title": "Lol",
+          "url": "https://www.youtube.com/embed/U0oJSUUPk7k"
         }
       ]
     },
