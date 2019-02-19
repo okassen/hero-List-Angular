@@ -152,12 +152,34 @@
           "speaker": "HOTD",
           "likes": 0,
           "views": 0
+        },
+        {
+          "id": 11,
+          "ep": "011",
+          "action": "visibility",
+          "title": "11e acte : Approche de la tempête des morts",
+          "thumbnail": "//i.ytimg.com/vi/U0oJSUUPk7k/hqdefault.jpg",
+          "youtubeURL": "//www.youtube.com/embed/xTyXaImvWcE",
+          "speaker": "HOTD",
+          "likes": 0,
+          "views": 0
+        },
+        {
+          "id": 12,
+          "ep": "012",
+          "action": "visibility",
+          "title": "12e acte : Tous les morts attaquent",
+          "thumbnail": "//i.ytimg.com/vi/U0oJSUUPk7k/hqdefault.jpg",
+          "youtubeURL": "//www.youtube.com/embed/YZ1rR3CdBh4",
+          "speaker": "HOTD",
+          "likes": 0,
+          "views": 0
         }
       ]
     },
     {
       "id": 2,
-      "postId": 1,
+      "postId": 2,
       "action": "list",
       "title": "Saison 2",
       "episodes": [
