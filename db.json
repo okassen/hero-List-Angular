@@ -75,6 +75,17 @@
           "speaker": "HOTD",
           "likes": 0,
           "views": 0
+        },
+        {
+          "id": 4,
+          "ep": "004",
+          "action": "visibility",
+          "title": "Tomber sur les morts",
+          "thumbnail": "//i.ytimg.com/vi/U0oJSUUPk7k/hqdefault.jpg",
+          "youtubeURL": "//www.youtube.com/embed/3lAFQQxsd2I",
+          "speaker": "HOTD",
+          "likes": 0,
+          "views": 0
         }
       ]
     },
