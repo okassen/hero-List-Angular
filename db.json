@@ -13,7 +13,7 @@
       "title": "Overlord",
       "body": "L'histoire débute dans Yggdrasil, un jeu de rôle virtuel en ligne connaissant un véritable succès mais sur le point de se fermer après douze ans d'existence. Le protagoniste principal dénommé Momonga a néanmoins du mal à l'accepter, il n'a aucune famille ni amis, ni de petite amie, et ne trouve plus de sens à vivre dans la « réalité ». À sa grande stupeur, à l'arrêt des serveurs, au lieu de revenir dans le monde réel il est envoyé avec sa guilde dans un nouveau monde.",
       "filter": "Aventure, Action, Fantasy, Combats, Monstres",
-      "ep": 26,
+      "ep": 39,
       "img": "https://www.twoframesstudios.com/wp-content/uploads/2018/01/Overlord-Review.png"
     }
   ],
@@ -184,13 +184,37 @@
       "title": "Saison 1",
       "episodes": [
         {
-          "title": "Breakfast & brunch"
+          "id": 1,
+          "ep": "001",
+          "action": "visibility",
+          "title": "12e acte : Tous les morts attaquent",
+          "thumbnail": "//i.ytimg.com/vi/U0oJSUUPk7k/hqdefault.jpg",
+          "youtubeURL": "//www.youtube.com/embed/YZ1rR3CdBh4",
+          "speaker": "HOTD",
+          "likes": 0,
+          "views": 0
         },
         {
-          "title": "New American"
+          "id": 2,
+          "ep": "002",
+          "action": "visibility",
+          "title": "12e acte : Tous les morts attaquent",
+          "thumbnail": "//i.ytimg.com/vi/U0oJSUUPk7k/hqdefault.jpg",
+          "youtubeURL": "//www.youtube.com/embed/YZ1rR3CdBh4",
+          "speaker": "HOTD",
+          "likes": 0,
+          "views": 0
         },
         {
-          "title": "Sushi"
+          "id": 3,
+          "ep": "003",
+          "action": "visibility",
+          "title": "12e acte : Tous les morts attaquent",
+          "thumbnail": "//i.ytimg.com/vi/U0oJSUUPk7k/hqdefault.jpg",
+          "youtubeURL": "//www.youtube.com/embed/YZ1rR3CdBh4",
+          "speaker": "HOTD",
+          "likes": 0,
+          "views": 0
         }
       ]
     },
