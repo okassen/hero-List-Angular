@@ -96,6 +96,7 @@
   ],
   "videos": [
     {
+      "action": "visibility",
       "id": 1,
       "title": "Behind the Illusions: Impossibly high-performance layout animations",
       "thumbnail": "//i.ytimg.com/vi/zVbLR7rI8ZU/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLAjiP06rSwpQF4HeF_5IEa1j9_k3A",
@@ -106,6 +107,7 @@
       "describe": "Have you ever wanted to dynamically animate layouts without sacrificing performance? In this talk, innovative illusions will be revealed that will transform your static user interfaces into lively, intuitive experiences for your users at 60 frames per second. We'll investigate even the most complex animated layouts and discover how certain techniques, such as FLIP, containment, clever transforms, pseudoelements, CSS variables, and more can make layout animations easier and smoother."
     },
     {
+      "action": "visibility",
       "id": 2,
       "title": "How to use CSS grid today in the real world",
       "thumbnail": "//i.ytimg.com/vi/fVX0xscGP9o/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLBwfi3RYxD2fLrKubjZfVUGeKUwew",
@@ -116,6 +118,7 @@
       "describe": "The new CSS Grid specification is here! Sure, it’s fun to play with, but is it truly ready or even practical to use for everyday work? As a designer and front end developer at a software development agency, I've been using CSS Grid in production websites since its initial release to browsers in March 2017 and I’m a huge fan. It is already making my life easier."
     },
     {
+      "action": "visibility",
       "id": 3,
       "title": "Faster fonts for speed fanatics",
       "thumbnail": "//i.ytimg.com/vi/iEinIwNppW4/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLBOEfD3JJtfjTU6A2AwYt6c4AO47g",
@@ -126,6 +129,7 @@
       "describe": "Fonts! Guess those are a big thing now. You’re likely familiar with at least getting custom typefaces up and running. You probably even know some neat tricks beyond the basics, but do you know how to make your fonts fast? I mean, really fast? Fast is important."
     },
     {
+      "action": "visibility",
       "id": 4,
       "title": "Can you see that OK? CSS tips for low-vision accessibility",
       "thumbnail": "//i.ytimg.com/vi/Wq2-cZ-vZBc/hqdefault.jpg?sqp=-oaymwEYCKgBEF5IVfKriqkDCwgBFQAAiEIYAXAB&rs=AOn4CLBFyDrYMP3nLRdvvhdL508bkOUGOQ",
