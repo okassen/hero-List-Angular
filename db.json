@@ -64,6 +64,17 @@
           "speaker": "HOTD",
           "likes": 0,
           "views": 0
+        },
+        {
+          "id": 3,
+          "ep": "003",
+          "action": "visibility",
+          "title": "Démocratie sous le règne des morts",
+          "thumbnail": "//i.ytimg.com/vi/U0oJSUUPk7k/hqdefault.jpg",
+          "youtubeURL": "//www.youtube.com/embed/aLFY-c0xI1s",
+          "speaker": "HOTD",
+          "likes": 0,
+          "views": 0
         }
       ]
     },
