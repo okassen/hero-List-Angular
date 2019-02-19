@@ -119,6 +119,39 @@
           "speaker": "HOTD",
           "likes": 0,
           "views": 0
+        },
+        {
+          "id": 8,
+          "ep": "008",
+          "action": "visibility",
+          "title": "8e acte : La morte route vers le foyer",
+          "thumbnail": "//i.ytimg.com/vi/U0oJSUUPk7k/hqdefault.jpg",
+          "youtubeURL": "//www.youtube.com/embed/YZFGr2Q0mKU",
+          "speaker": "HOTD",
+          "likes": 0,
+          "views": 0
+        },
+        {
+          "id": 9,
+          "ep": "009",
+          "action": "visibility",
+          "title": "9e acte : Le sabre et les morts",
+          "thumbnail": "//i.ytimg.com/vi/U0oJSUUPk7k/hqdefault.jpg",
+          "youtubeURL": "//www.youtube.com/embed/WvXjb-CQCCE",
+          "speaker": "HOTD",
+          "likes": 0,
+          "views": 0
+        },
+        {
+          "id": 10,
+          "ep": "010",
+          "action": "visibility",
+          "title": "10e acte : Les règles de la maison des morts",
+          "thumbnail": "//i.ytimg.com/vi/U0oJSUUPk7k/hqdefault.jpg",
+          "youtubeURL": "//www.youtube.com/embed/e5GOBIyoq0Q",
+          "speaker": "HOTD",
+          "likes": 0,
+          "views": 0
         }
       ]
     },
