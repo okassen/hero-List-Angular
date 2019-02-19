@@ -181,7 +181,41 @@
       "id": 2,
       "postId": 2,
       "action": "list",
+      "title": "Saison 1",
+      "episodes": [
+        {
+          "title": "Breakfast & brunch"
+        },
+        {
+          "title": "New American"
+        },
+        {
+          "title": "Sushi"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "postId": 2,
+      "action": "list",
       "title": "Saison 2",
+      "episodes": [
+        {
+          "title": "Breakfast & brunch"
+        },
+        {
+          "title": "New American"
+        },
+        {
+          "title": "Sushi"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "postId": 2,
+      "action": "list",
+      "title": "Saison 3",
       "episodes": [
         {
           "title": "Breakfast & brunch"
