@@ -1,7 +1,7 @@
 {
   "posts": [
     {
-      "id": "high_school_of_the_dead",
+      "id": 1,
       "title": "high school of the dead",
       "body": "Le monde fut contaminé le 13 avril 2010 par une maladie mortelle d'origine inconnue, qui apparait le même jour dans les principales villes, transformant les humains en zombies et entrainant le déclin de la civilisation.             Au Japon, plusieurs étudiants du lycée Fujimi, ainsi qu'une infirmière scolaire, se sont regroupés afin de survivre à cette apocalypse. L'histoire suit Takashi Komuro, l'un des rares étudiants à avoir survécu à la première attaque.",
       "filter": "Aventure, Action, Ecchi, Drame, Horreur, Mystère",
@@ -94,6 +94,28 @@
           "title": "5e acte : Les rues des morts",
           "thumbnail": "//i.ytimg.com/vi/U0oJSUUPk7k/hqdefault.jpg",
           "youtubeURL": "//www.youtube.com/embed/IYBI8ym8u00",
+          "speaker": "HOTD",
+          "likes": 0,
+          "views": 0
+        },
+        {
+          "id": 6,
+          "ep": "006",
+          "action": "visibility",
+          "title": "6e acte : En pleine nuit",
+          "thumbnail": "//i.ytimg.com/vi/U0oJSUUPk7k/hqdefault.jpg",
+          "youtubeURL": "//www.youtube.com/embed/-y5Vv2byqTQ",
+          "speaker": "HOTD",
+          "likes": 0,
+          "views": 0
+        },
+        {
+          "id": 7,
+          "ep": "007",
+          "action": "visibility",
+          "title": "7e acte : Nuit des morts, groupe des morts",
+          "thumbnail": "//i.ytimg.com/vi/U0oJSUUPk7k/hqdefault.jpg",
+          "youtubeURL": "//www.youtube.com/embed/jGlq0wGwsR0",
           "speaker": "HOTD",
           "likes": 0,
           "views": 0
